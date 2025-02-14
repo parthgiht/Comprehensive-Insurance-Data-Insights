@@ -1,4 +1,4 @@
-# 📊 Comprehensive-Insurance-Data-Insights
+# 📊 Comprehensive-Insurance-Data-Insights (Streamlit Dashboard)
 This project provides an in-depth analysis of insurance policies, risk factors, and investment trends across different regions, business types, and construction categories. By leveraging data-driven insights, we aim to understand how factors like location, industry type, and disaster risks (earthquakes, floods) influence insurance policies and their ratings.
 
 ## 🔍Key Insights
